@@ -1,4 +1,4 @@
-package ambroziepaval.hackerrank.warmup;
+package ambroziepaval.hackerrank.warmup.warmup;
 
 public class CountingValleys {
 
